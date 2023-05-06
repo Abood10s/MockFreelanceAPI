@@ -1,0 +1,23 @@
+{
+    "name": "fake-api",
+    "version": "1.0.0",
+    "description": "json server api ",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Abood10s/MockFreelanceAPI.git"
+    },
+    "author": "abdulrahman saafeen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Abood10s/MockFreelanceAPI/issues"
+    },
+    "homepage": "https://github.com/Abood10s/MockFreelanceAPI#readme",
+    "dependencies": {
+        "json-server": "^0.17.3"
+    }
+}
